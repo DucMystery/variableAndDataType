@@ -1,4 +1,3 @@
-import "./scss/styles.scss";
 /**
  * Variable and Data type
  */
@@ -21,7 +20,7 @@ function main() {
   console.log(target);
 }
  */
-/*
+
 function main() {
   var x = 5;
   console.log(x);
@@ -33,7 +32,6 @@ function main() {
   let y = 100;
   console.log(y);
 }
-*/
 
 /*
 function main() {
@@ -96,7 +94,17 @@ function main() {
 }
  */
 
-function main() {}
+// function main() {
+//     console.log("START");
+//     let target="en-us";
+//     if (true){
+//         var lang = "vi";
+//         console.log("inside block");
+//         console.log(target);
+//     }
+//     console.log(lang);
+//     console.log(target);
+// }
 
 // tslint:enable
 
