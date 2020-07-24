@@ -11,8 +11,9 @@ const categories: Array<string> =
   ['Sport', 'IT', 'Car'];
 
 console.log('list');
+console.log('list');
 list.forEach((num) =>
-  console.log(num.toFixed(2))
+  console.log(num.toFixed(4))
 );
 
 console.log('categries');
